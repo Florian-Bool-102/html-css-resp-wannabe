@@ -149,7 +149,6 @@ img {
        flex-direction: column;
        row-gap: 2rem;
     }
- }
 
  .lessons .col,
  .steps .col,
@@ -159,4 +158,6 @@ img {
 
  .why-us {
     text-align: center;
+ }
+
  }
